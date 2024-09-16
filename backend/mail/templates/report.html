@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="'en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Prediction Report</title>
+    </head>
+    <body>
+        {{ symbol }}<br />
+        <img src="data:image/jpeg;base64,{{ plot }}" style="width:50%" > <br />
+        RMSE - {{ rmse }} <br />
+        Prediction - {{ prediction }}
+    </body>
+</html>

@@ -1,0 +1,575 @@
+[
+    {
+        "label": "Cache",
+        "importPath": "flask_caching",
+        "description": "flask_caching",
+        "isExtraImport": true,
+        "detail": "flask_caching",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_report",
+        "importPath": "app.tasks",
+        "description": "app.tasks",
+        "isExtraImport": true,
+        "detail": "app.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "get_company_overview",
+        "importPath": "api_from_data",
+        "description": "api_from_data",
+        "isExtraImport": true,
+        "detail": "api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_daily_adjusted",
+        "importPath": "api_from_data",
+        "description": "api_from_data",
+        "isExtraImport": true,
+        "detail": "api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_search_suggestions",
+        "importPath": "api_from_data",
+        "description": "api_from_data",
+        "isExtraImport": true,
+        "detail": "api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "importPath": "mail.app",
+        "description": "mail.app",
+        "isExtraImport": true,
+        "detail": "mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "prediction",
+        "importPath": "prediction",
+        "description": "prediction",
+        "isExtraImport": true,
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEApplication",
+        "importPath": "email.mime.application",
+        "description": "email.mime.application",
+        "isExtraImport": true,
+        "detail": "email.mime.application",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "manual_cache",
+        "importPath": "app.cache",
+        "description": "app.cache",
+        "isExtraImport": true,
+        "detail": "app.cache",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.cache",
+        "description": "app.cache",
+        "isExtraImport": true,
+        "detail": "app.cache",
+        "documentation": {}
+    },
+    {
+        "label": "manual_cache",
+        "importPath": "app.cache",
+        "description": "app.cache",
+        "isExtraImport": true,
+        "detail": "app.cache",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "make_celery",
+        "importPath": "app.celery",
+        "description": "app.celery",
+        "isExtraImport": true,
+        "detail": "app.celery",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "app.controllers",
+        "description": "app.controllers",
+        "isExtraImport": true,
+        "detail": "app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "manual_cache",
+        "kind": 2,
+        "importPath": "backend.app.cache",
+        "description": "backend.app.cache",
+        "peekOfCode": "def manual_cache(func):\n    def wrapper(*args):\n        key = args[0] + func.__name__\n        res = cache.get(key)\n        if res:\n            print('cache hit')\n            return res\n        res = func(*args)\n        print(res)\n        if res:",
+        "detail": "backend.app.cache",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "kind": 5,
+        "importPath": "backend.app.cache",
+        "description": "backend.app.cache",
+        "peekOfCode": "cache = Cache(config={'CACHE_TYPE': 'redis', 'CACHE_REDIS_URL': 'redis://localhost:6379'})\ndef manual_cache(func):\n    def wrapper(*args):\n        key = args[0] + func.__name__\n        res = cache.get(key)\n        if res:\n            print('cache hit')\n            return res\n        res = func(*args)\n        print(res)",
+        "detail": "backend.app.cache",
+        "documentation": {}
+    },
+    {
+        "label": "make_celery",
+        "kind": 2,
+        "importPath": "backend.app.celery",
+        "description": "backend.app.celery",
+        "peekOfCode": "def make_celery(celery, app):\n    celery.conf.update(app.config)\n    class ContextTask(celery.Task):\n        def __call__(self, *args, **kwargs):\n            with app.app_context():\n                return self.run(*args, **kwargs)\n    celery.Task = ContextTask",
+        "detail": "backend.app.celery",
+        "documentation": {}
+    },
+    {
+        "label": "get_graph",
+        "kind": 2,
+        "importPath": "backend.app.controllers",
+        "description": "backend.app.controllers",
+        "peekOfCode": "def get_graph(data):\n    plt.plot(data['close'])\n    buffer = io.BytesIO()\n    plt.savefig(buffer, format='jpg')\n    buffer.seek(0)\n    converted_string = base64.b64encode(buffer.read())\n    plt.close()\n    return converted_string.decode('utf-8')\n@app.route('/ping', methods=['GET'])\ndef ping():",
+        "detail": "backend.app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "ping",
+        "kind": 2,
+        "importPath": "backend.app.controllers",
+        "description": "backend.app.controllers",
+        "peekOfCode": "def ping():\n    return jsonify({'msg': 'Pong!'})\n@app.route('/search', methods=['POST'])\ndef get_search_suggestions_from_api():\n    data = request.get_json()\n    symbol = data['symbol']\n    suggestions = get_search_suggestions(symbol)\n    return make_response(jsonify(suggestions), 200)\n@app.route('/data', methods=['POST'])\ndef get_data_from_api():",
+        "detail": "backend.app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "get_search_suggestions_from_api",
+        "kind": 2,
+        "importPath": "backend.app.controllers",
+        "description": "backend.app.controllers",
+        "peekOfCode": "def get_search_suggestions_from_api():\n    data = request.get_json()\n    symbol = data['symbol']\n    suggestions = get_search_suggestions(symbol)\n    return make_response(jsonify(suggestions), 200)\n@app.route('/data', methods=['POST'])\ndef get_data_from_api():\n    data = request.get_json()\n    symbol = data['symbol']\n    info = get_company_overview(symbol)",
+        "detail": "backend.app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "get_data_from_api",
+        "kind": 2,
+        "importPath": "backend.app.controllers",
+        "description": "backend.app.controllers",
+        "peekOfCode": "def get_data_from_api():\n    data = request.get_json()\n    symbol = data['symbol']\n    info = get_company_overview(symbol)\n    data = get_daily_adjusted(symbol)\n    plot = get_graph(data['data'])\n    if info:\n        return make_response(jsonify({'info':info,'plot':plot}), 200)\n    else:\n        print('Info not available')",
+        "detail": "backend.app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "generate_mail",
+        "kind": 2,
+        "importPath": "backend.app.controllers",
+        "description": "backend.app.controllers",
+        "peekOfCode": "def generate_mail():\n    data = request.get_json()\n    print(data)\n    symbol = data['symbol']\n    mail_id = data['mail_id']\n    send_report.delay(mail_id, symbol)\n    return make_response('',200)",
+        "detail": "backend.app.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "send_report",
+        "kind": 2,
+        "importPath": "backend.app.tasks",
+        "description": "backend.app.tasks",
+        "peekOfCode": "def send_report(mail_id, symbol):\n    rmse, prediction_today, plot = prediction(symbol)\n    message = render_template('report.html', rmse=rmse, prediction=prediction_today, plot=plot, symbol=symbol)\n    send_email(mail_id, 'Prediction Report', message)",
+        "detail": "backend.app.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "backend.mail.app",
+        "description": "backend.mail.app",
+        "peekOfCode": "def send_email(to_address, subject, message, attachments = []):\n    msg = MIMEMultipart()\n    msg['To'] = to_address\n    msg['From'] = SENDER_ADDRESS\n    msg['Subject'] = subject\n    msg.attach(MIMEText(message, 'html'))\n    for (file, name) in attachments:\n        file.seek(0)\n        part = MIMEApplication(file.read(), name=name)\n        part['Content-Disposition'] = f'attachment; filename=\"{name}\"'",
+        "detail": "backend.mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_SMTP_HOST",
+        "kind": 5,
+        "importPath": "backend.mail.app",
+        "description": "backend.mail.app",
+        "peekOfCode": "SERVER_SMTP_HOST = 'localhost'\nSERVER_SMTP_PORT = 1025\nSENDER_ADDRESS = 'stockz@gmail.com'\nSENDER_PASSWORD = ''\ndef send_email(to_address, subject, message, attachments = []):\n    msg = MIMEMultipart()\n    msg['To'] = to_address\n    msg['From'] = SENDER_ADDRESS\n    msg['Subject'] = subject\n    msg.attach(MIMEText(message, 'html'))",
+        "detail": "backend.mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_SMTP_PORT",
+        "kind": 5,
+        "importPath": "backend.mail.app",
+        "description": "backend.mail.app",
+        "peekOfCode": "SERVER_SMTP_PORT = 1025\nSENDER_ADDRESS = 'stockz@gmail.com'\nSENDER_PASSWORD = ''\ndef send_email(to_address, subject, message, attachments = []):\n    msg = MIMEMultipart()\n    msg['To'] = to_address\n    msg['From'] = SENDER_ADDRESS\n    msg['Subject'] = subject\n    msg.attach(MIMEText(message, 'html'))\n    for (file, name) in attachments:",
+        "detail": "backend.mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "SENDER_ADDRESS",
+        "kind": 5,
+        "importPath": "backend.mail.app",
+        "description": "backend.mail.app",
+        "peekOfCode": "SENDER_ADDRESS = 'stockz@gmail.com'\nSENDER_PASSWORD = ''\ndef send_email(to_address, subject, message, attachments = []):\n    msg = MIMEMultipart()\n    msg['To'] = to_address\n    msg['From'] = SENDER_ADDRESS\n    msg['Subject'] = subject\n    msg.attach(MIMEText(message, 'html'))\n    for (file, name) in attachments:\n        file.seek(0)",
+        "detail": "backend.mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "SENDER_PASSWORD",
+        "kind": 5,
+        "importPath": "backend.mail.app",
+        "description": "backend.mail.app",
+        "peekOfCode": "SENDER_PASSWORD = ''\ndef send_email(to_address, subject, message, attachments = []):\n    msg = MIMEMultipart()\n    msg['To'] = to_address\n    msg['From'] = SENDER_ADDRESS\n    msg['Subject'] = subject\n    msg.attach(MIMEText(message, 'html'))\n    for (file, name) in attachments:\n        file.seek(0)\n        part = MIMEApplication(file.read(), name=name)",
+        "detail": "backend.mail.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_search_suggestions",
+        "kind": 2,
+        "importPath": "backend.api_from_data",
+        "description": "backend.api_from_data",
+        "peekOfCode": "def get_search_suggestions(symbol):\n    url = f'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords={symbol}&apikey={API_KEY}'\n    res = requests.get(url)\n    res = json.loads(res.content.decode('utf-8'))['bestMatches']\n    if not res:\n        print(f'get_search_suggestions API failed for {symbol}')\n    return res\n@manual_cache\ndef get_daily_adjusted(symbol,full=True):\n    output = \"full\" if full else \"compact\"",
+        "detail": "backend.api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_daily_adjusted",
+        "kind": 2,
+        "importPath": "backend.api_from_data",
+        "description": "backend.api_from_data",
+        "peekOfCode": "def get_daily_adjusted(symbol,full=True):\n    output = \"full\" if full else \"compact\"\n    url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={symbol}&outputsize={output}&datatype=csv&apikey={API_KEY}'\n    res = requests.get(url)\n    res = res.content.decode('utf-8')\n    with open(f'{symbol}.csv', 'w') as file:\n        file.write(res)\n    csv = io.StringIO(res)\n    data = pandas.read_csv(csv)\n    data['time'] = pandas.to_datetime(data.timestamp,format='%Y-%m-%d')",
+        "detail": "backend.api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_company_overview",
+        "kind": 2,
+        "importPath": "backend.api_from_data",
+        "description": "backend.api_from_data",
+        "peekOfCode": "def get_company_overview(symbol):\n    url = f'https://www.alphavantage.co/query?function=OVERVIEW&symbol={symbol}&apikey={API_KEY}'\n    res = requests.get(url)\n    res = json.loads(res.content.decode('utf-8'))\n    res.pop(\"key\", None)\n    if not res:\n        print(f'get_company_overview API failed for {symbol}')\n    return res",
+        "detail": "backend.api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "API_KEY",
+        "kind": 5,
+        "importPath": "backend.api_from_data",
+        "description": "backend.api_from_data",
+        "peekOfCode": "API_KEY = config('API_KEY3')\nAPI_KEY2 = config('API_KEY2')\n@manual_cache\ndef get_search_suggestions(symbol):\n    url = f'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords={symbol}&apikey={API_KEY}'\n    res = requests.get(url)\n    res = json.loads(res.content.decode('utf-8'))['bestMatches']\n    if not res:\n        print(f'get_search_suggestions API failed for {symbol}')\n    return res",
+        "detail": "backend.api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "API_KEY2",
+        "kind": 5,
+        "importPath": "backend.api_from_data",
+        "description": "backend.api_from_data",
+        "peekOfCode": "API_KEY2 = config('API_KEY2')\n@manual_cache\ndef get_search_suggestions(symbol):\n    url = f'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords={symbol}&apikey={API_KEY}'\n    res = requests.get(url)\n    res = json.loads(res.content.decode('utf-8'))['bestMatches']\n    if not res:\n        print(f'get_search_suggestions API failed for {symbol}')\n    return res\n@manual_cache",
+        "detail": "backend.api_from_data",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "SECRET_KEY = 'this is a secret key'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "CELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "current_dir = os.path.abspath(os.path.dirname(__file__))\napp = Flask(__name__, template_folder='./mail/templates')\napp.config.from_object('config')\napp.secret_key = app.config['SECRET_KEY']\nCORS(app, resources={r'/*': {'origins': '*'}})\ncache.init_app(app)\napp.app_context().push()\nmake_celery(client, app)\nfrom app.controllers import *\nif __name__ == \"__main__\":",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = Flask(__name__, template_folder='./mail/templates')\napp.config.from_object('config')\napp.secret_key = app.config['SECRET_KEY']\nCORS(app, resources={r'/*': {'origins': '*'}})\ncache.init_app(app)\napp.app_context().push()\nmake_celery(client, app)\nfrom app.controllers import *\nif __name__ == \"__main__\":\n    app.run(",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app.secret_key = app.config['SECRET_KEY']\nCORS(app, resources={r'/*': {'origins': '*'}})\ncache.init_app(app)\napp.app_context().push()\nmake_celery(client, app)\nfrom app.controllers import *\nif __name__ == \"__main__\":\n    app.run(\n        host=\"0.0.0.0\",\n        debug=True,",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "prediction",
+        "kind": 2,
+        "importPath": "backend.prediction",
+        "description": "backend.prediction",
+        "peekOfCode": "def prediction(symbol):\n    data = pandas.read_csv(symbol+'.csv')\n    data['time'] = pandas.to_datetime(data.timestamp,format='%Y-%m-%d')\n    data = data[['time','close']]\n    data.index = data.time\n    data.drop('time', axis=1, inplace=True)\n    data = data.sort_index(ascending=True)\n    scaler = MinMaxScaler(feature_range=(0, 1))\n    fdata = scaler.fit_transform(data.values)\n    l = int(len(fdata)*0.7)",
+        "detail": "backend.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "backend.prediction",
+        "description": "backend.prediction",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = \"-1\"\nimport pandas\npandas.options.mode.chained_assignment = None\nimport numpy\nfrom sklearn.preprocessing import MinMaxScaler\nfrom keras.models import Sequential\nfrom keras.layers import Dense, LSTM, Dropout\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(16,8))\n@manual_cache",
+        "detail": "backend.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "pandas.options.mode.chained_assignment",
+        "kind": 5,
+        "importPath": "backend.prediction",
+        "description": "backend.prediction",
+        "peekOfCode": "pandas.options.mode.chained_assignment = None\nimport numpy\nfrom sklearn.preprocessing import MinMaxScaler\nfrom keras.models import Sequential\nfrom keras.layers import Dense, LSTM, Dropout\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(16,8))\n@manual_cache\ndef prediction(symbol):\n    data = pandas.read_csv(symbol+'.csv')",
+        "detail": "backend.prediction",
+        "documentation": {}
+    }
+]
